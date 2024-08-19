@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Neplooo
-- 👀 I’m interested in Arduino, Robotics and automation
-- 🌱 I’m currently learning Python
+- 🐍 I have experience in Python, Arduino, and C++
+- 👀 I’m interested in Robotics and automation
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: Email = albertmathisz0@gmail.com, Discord = @neplooo
 
 <!---
