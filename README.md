@@ -3,6 +3,7 @@
 - 👀 I’m interested in Robotics and automation
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Email = albertmathisz0@gmail.com, Discord = @neplooo
+- 🤪 Feining for Kali Linux
 
 <!---
 Neplooo/Neplooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
