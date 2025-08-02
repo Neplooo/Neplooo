@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Neplooo
-- 🐍 I have experience in Python, Arduino, and C++
-- 👀 I’m interested in Robotics and automation
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: Email = albertmathisz0@gmail.com, Discord = @neplooo
-- 🤪 Feining for Kali Linux
+<h2>G'Day 👋</h2>
 
-<!---
-Neplooo/Neplooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>My name is Alberto - I'm a high school student with a focus on engineering and computer science! I am currently interested in robotics, software development, mechanical design, and data science. During the conventional school year, you will find me focused on the competitive robotics season; however, I am involved in many different projects throughout the summer.</p>
+
+<h2>Tools I have experience in 🔨</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,cpp,figma,git,java,kotlin,linux,opencv,py,pycharm,raspberrypi,sklearn,vscode,windows&theme=dark&perline=16" />
+  </a>
+</p>
+
+<h2>Other Stats!</h2>
+
+<div align=center>
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neplooo&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+</div>
