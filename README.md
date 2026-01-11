@@ -9,9 +9,3 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,cpp,figma,git,java,kotlin,linux,opencv,py,pycharm,raspberrypi,sklearn,vscode,windows&theme=dark&perline=16" />
   </a>
 </p>
-
-<h2>Other Stats!</h2>
-
-<div align=center>
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neplooo&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
-</div>
